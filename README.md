@@ -1,6 +1,10 @@
-tensorFlow 
-numPy 
-nltk  
-matplotlib
-seaborn
-scikit-Learn 
+## Requirements
+
+- Python
+- TensorFlow
+- NumPy
+- NLTK
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+
